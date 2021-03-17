@@ -1,2 +1,2 @@
 # php-cnp
-Validate Romanian Uniquie identification Number - CNP
+Validate Romanian Personal Identification Number ("CNP") using PHP
